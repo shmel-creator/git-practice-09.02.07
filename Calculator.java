@@ -7,7 +7,12 @@ public class Calculator {
         return a * b;
     }
 
-    // Новый метод
+    /**
+     * Делит одно число на другое.
+     * @param a делимое
+     * @param b делитель
+     * @return результат деления
+     */
     public double divide(int a, int b) {
         if (b == 0) {
             throw new IllegalArgumentException("Деление на ноль невозможно!");
