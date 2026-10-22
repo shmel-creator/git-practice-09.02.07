@@ -1,8 +1,8 @@
-\# Проект Calculator
+# Проект Calculator
 
 
 
-!\[CI Pipeline](https://github.com/shmel-creator/git-practice-09.02.07/actions/workflows/ci.yml/badge.svg)
+![CI Pipeline](https://github.com/shmel-creator/git-practice-09.02.07/actions/workflows/ci.yml/badge.svg)
 
 
 
